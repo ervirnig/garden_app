@@ -1,4 +1,10 @@
 GardenApp::Application.routes.draw do
+  resources :flower_twos
+
+  resources :flowers
+
+  resources :beds
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

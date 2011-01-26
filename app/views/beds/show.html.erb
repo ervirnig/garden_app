@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Soil type:</b>
+  <%= @bed.soil_type %>
+</p>
+
+<p>
+  <b>Sqft:</b>
+  <%= @bed.sqft %>
+</p>
+
+
+<%= link_to 'Edit', edit_bed_path(@bed) %> |
+<%= link_to 'Back', beds_path %>

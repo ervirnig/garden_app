@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  latin_name: MyString
+  common_name: MyString
+  bed_id: 1
+
+two:
+  latin_name: MyString
+  common_name: MyString
+  bed_id: 1

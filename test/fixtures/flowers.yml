@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  latin_name: MyString
+  common_name: MyString
+
+two:
+  latin_name: MyString
+  common_name: MyString

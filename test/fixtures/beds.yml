@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  soil_type: MyString
+  sqft: 1
+
+two:
+  soil_type: MyString
+  sqft: 1

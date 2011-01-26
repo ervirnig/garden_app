@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Latin name:</b>
+  <%= @flower.latin_name %>
+</p>
+
+<p>
+  <b>Common name:</b>
+  <%= @flower.common_name %>
+</p>
+
+
+<%= link_to 'Edit', edit_flower_path(@flower) %> |
+<%= link_to 'Back', flowers_path %>
